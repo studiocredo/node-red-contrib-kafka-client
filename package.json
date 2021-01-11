@@ -38,6 +38,6 @@
     "homepage": "https://github.com/emrebekar/node-red-contrib-kafka-client/blob/master/README.md",
     "license": "MIT",
     "dependencies": {
-        "kafka-node": "^5.0.0"
+        "kafka-node": "^4.1.3"
     }
 }
